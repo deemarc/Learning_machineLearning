@@ -2,3 +2,5 @@ preprocessing.py
 *-checkpoint.ipynb
 *.json
 
+*.data
+*.namess
